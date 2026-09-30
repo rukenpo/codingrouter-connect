@@ -4,7 +4,7 @@ CodingRouter 桌面客户端，基于 [CC Switch](https://github.com/farion1231/
 
 **[查看版本与下载安装包](https://github.com/rukenpo/codingrouter-connect/releases)** · **[CodingRouter](https://api.codingrouter.ai)**
 
-本仓库仅用于发布安装包、版本说明和更新元数据，不托管应用源码。首个全平台版本正在准备，未出现 Release 时表示尚未公开发布。
+本仓库仅用于发布安装包、版本说明和更新元数据，不托管应用源码。[v0.1.0 已发布](https://github.com/rukenpo/codingrouter-connect/releases/tag/v0.1.0)，提供完整 19 个发布文件；macOS 版本已完成 Apple 签名与公证。
 
 ## 平台与下载格式
 
